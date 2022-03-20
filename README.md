@@ -1,6 +1,6 @@
 ##  UFOs
 
-# The filter by city allows the website user narrowing in their search on the website.
+# The filter by city allows the website user to narrow their search on the website.
   This data that populates here will come from the data.js file.
 
 
